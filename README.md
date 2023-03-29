@@ -12,11 +12,7 @@
 
 ###
 
-<h1 align="center"></h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
+<h1 align="center">👩‍💻  About Me</h1>
 
 ###
 
