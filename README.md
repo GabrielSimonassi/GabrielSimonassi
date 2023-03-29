@@ -25,7 +25,7 @@
   ###
   
   <h3 align="left">🛠 Language and tools</h3>
-  <hr>
+ ###
   
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
@@ -35,11 +35,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   </div>
-  <hr>
+ ###
 
-  <h2 align="left"></h2>
-  
-  ###
   
   <br clear="both">
   
