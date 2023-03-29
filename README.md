@@ -24,11 +24,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<br clear="both">
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -44,6 +40,8 @@
 </div>
 
 ###
+
+<h2 align="left"></h2>
 
 ###
 
